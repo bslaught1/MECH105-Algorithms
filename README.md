@@ -1,8 +1,8 @@
 # MECH105-Algorithms
 
-Repository containing the algorithms I developed for my MECH105-Mechcanical Engineering Problem Solving class.
+This repository contains the algorithms that I wrote for MECH105(Mechanical Engineering Problem Solving).
 
 ### Algorithms
-- False Postion
-- L U Factor
-- Simpson 1/3
+- False Position
+- L U Factorization
+- Simpson's 1/3 Rule
